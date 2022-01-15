@@ -11,7 +11,10 @@
 
 
 .btn-lg {
-    color: grey;
+    color: white;
     border-color: grey;
+    background-color: pink;
 }
-
+.jj {
+    background-color: mediumvioletred;
+}
