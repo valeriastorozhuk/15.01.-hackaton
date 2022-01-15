@@ -1,0 +1,26 @@
+header {
+  min-height: 8vh;
+}
+.nav-item {
+  font-size: 28pt;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.image-responsive {
+  height: auto;
+  width: auto;
+  max-height: 250px;
+  max-width: 650px;
+}
+.nav {
+  font-size: large;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+
+footer {
+  color: #5c4262;
+  min-height: 5vh;
+  background: linear-gradient(to top, #ffff 0%, #e7d6f7 5%, #e78788 95%);
+  text-align: center;
+  font-family: monospace;
+}
