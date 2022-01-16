@@ -1,0 +1,11 @@
+.header-wallpaper {
+    background-image: url('../images/cupc-back.jpg');
+    background-repeat: no-repeat;
+    
+}
+
+.menu {
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: fuchsia;
+}
