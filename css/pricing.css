@@ -1,0 +1,24 @@
+
+.color {
+    background-color: lightpink;
+    
+}
+
+.cc {
+    background-color: mediumvioletred;
+}
+
+
+
+.btn-lg {
+    color: white;
+    border-color: grey;
+    background-color: pink;
+}
+.jj {
+    background-color: mediumvioletred;
+}
+
+body {
+    background-image: url(../images/cupc-1.jpg);
+}
